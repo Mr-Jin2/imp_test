@@ -1,0 +1,1 @@
+print('pakg1_1.module1 name is:',__name__)
